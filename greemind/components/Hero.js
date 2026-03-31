@@ -15,7 +15,7 @@ export default function Hero() {
                 <div className="font-poppins font-medium text-[18px] leading-[100%] tracking-[0%] mt-2">Plant Species</div>
               </div>
               <span className="h-16 w-[3px] bg-[#1E1E1E] self-center border-r-[2px] border-color-black-900"></span>
-              <div className="space-y-4 mt-2 ml-6">
+              <div className="space-y-4 mt-2 ml-8">
                 <div className="font-poppins font-medium text-[32px] leading-[100%] tracking-[0%] mb-4">100+</div>
                 <div className="font-poppins font-medium text-[18px] leading-[100%] tracking-[0%] mt-2">Customers</div>
               </div>
