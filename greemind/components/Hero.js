@@ -6,6 +6,7 @@ export default function Hero() {
   return (
     <section className="container-max mt-10">
       <div className="relative rounded-hero bg-[#C1DCDC] p-6 sm:p-10 overflow-hidden">
+        {/* // */}
         <div className="grid md:grid-cols-2 gap-6 items-start">
           <div className="space-y-6">
             <h1 className="heading-hero w-full max-w-[500px] font-poppins font-extrabold text-[64px] leading-[64px]">Buy your dream plants</h1>

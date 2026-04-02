@@ -6,6 +6,7 @@ export default function Footer() {
       <div className="container-max py-14">
         <div className="grid md:grid-cols-4 gap-8">
           <div className="">
+            {/* /// */}
             <Image src="/images/GREENMIND.webp" alt="GREENMIND" width={150} height={25} className="object-contain" />
             <p className="mt-8 text-gray-600 font-poppins font-medium text-[18px] leading-[1.5] tracking-[0%] opacity-60 max-w-[180px]">We help you find your dream plant</p>
             <div className="mt-6 flex items-center gap-3 text-navy">
